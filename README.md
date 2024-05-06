@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jforrest602
-- 👀 I’m interested in you.
+- 👀
 - 🌱 I’m currently learning cybrsecurity.
-- 💞️ I’m looking to collaborate on any security-related projects.
-- 📫 How to reach me ...        
-- ⚡ Fun fact: "There are 93 million 5 thousand flows, and here's one more."
+- 💞️ I’m looking to collaborate.
+- 📫        
+- ⚡ "Since making up my mind up to study in earnest, I have taken as my teacher everything in the universe, as well as examples set by my predecessors. I'm still in the process of learning" - Miyamoto Musashi
 
